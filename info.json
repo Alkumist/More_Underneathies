@@ -1,0 +1,11 @@
+{
+  "name": "More_Underneathies",
+  "version": "1.2.0",
+  "factorio_version": "1.1",
+  "title": "More Underneathies",
+  "author": "Supercheese, Alkumist",
+  "dependencies": ["base", "?boblogistics >= 0.17.1",
+  "?space-exploration >= 0.6.1", "?Krastorio2 >= 1.3.19",
+  "?AdvancedBelts >= 2.0.2", "?exotic-industries >= 0.4.1"],
+  "description": "Based on a post from Reddit, where it was conclusively determined that Underground Belts sound much cuter when referred to as Underneathies."
+}

@@ -1,0 +1,43 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 19. 5. 2023
+  Changes:
+    - Added Advanced belts Underneathies
+    - Added Krastorio 2 Underneathies
+    - Added Space exploration Underneathies
+    - Added Exotic industries Underneathie
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 1. 12. 2020
+  Changes:
+    - Updated for Factorio 1.1.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.8
+Date: 21. 1. 2020
+  Changes:
+    - Updated for Factorio 0.18.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 27. 2. 2019
+  Changes:
+    - Updated for Factorio 0.17.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 7. 4. 2018
+  Changes:
+    - Support added for Bob's Logistics v0.16.8 and higher (transport belt rework).
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 15. 1. 2018
+  Changes:
+    - Updated for Factorio 0.16.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 25. 4. 2017
+  Changes:
+    - Updated for Factorio 0.15.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0 - First public release
+Date: 12. 3. 2017
+  Major Features:
+    - Initial release; support for base and Bob's Logistics.
